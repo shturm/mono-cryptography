@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="/home/alx/src/MonoCryptography/NHibernateOrm/bin/Debug/NHibernateOrm.nunit" total="1" errors="1" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-09-18" time="21:10:39">
+  <environment nunit-version="2.6.3.0" clr-version="4.0.30319.42000" os-version="Unix 3.13.0.95" platform="Unix" cwd="/home/alx/src/mywind-master" machine-name="alx" user="alx" user-domain="alx" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Project" name="/home/alx/src/MonoCryptography/NHibernateOrm/bin/Debug/NHibernateOrm.nunit" executed="True" result="Failure" success="False" time="0.093" asserts="0">
+    <results>
+      <test-suite type="Assembly" name="/home/alx/src/MonoCryptography/NHibernateOrm/bin/Debug/NHibernateOrm.dll" executed="True" result="Failure" success="False" time="0.085" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="NHibernateOrm" executed="True" result="Failure" success="False" time="0.085" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="Test" executed="True" result="Failure" success="False" time="0.084" asserts="0">
+                <results>
+                  <test-case name="NHibernateOrm.Test.ConnectToDatabase" executed="True" result="Error" success="False" time="0.076" asserts="0">
+                    <failure>
+                      <message><![CDATA[System.NullReferenceException : Object reference not set to an instance of an object]]></message>
+                      <stack-trace><![CDATA[at NHibernateOrm.Test.ConnectToDatabase () <0x405d8d70 + 0x0008f> in <filename unknown>:0
+]]></stack-trace>
+                    </failure>
+                  </test-case>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

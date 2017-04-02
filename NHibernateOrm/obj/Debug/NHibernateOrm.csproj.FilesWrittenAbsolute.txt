@@ -1,0 +1,12 @@
+/home/alx/src/MonoCryptography/NHibernateOrm/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/alx/src/MonoCryptography/NHibernateOrm/bin/Debug/NHibernateOrm.dll.config
+/home/alx/src/MonoCryptography/NHibernateOrm/bin/Debug/NHibernateOrm.dll.mdb
+/home/alx/src/MonoCryptography/NHibernateOrm/bin/Debug/NHibernateOrm.dll
+/home/alx/src/MonoCryptography/NHibernateOrm/obj/Debug/NHibernateOrm.dll
+/home/alx/src/MonoCryptography/NHibernateOrm/obj/Debug/NHibernateOrm.dll.mdb
+/home/alx/src/MonoCryptography/NHibernateOrm/bin/Debug/nunit.framework.dll
+/home/alx/src/MonoCryptography/NHibernateOrm/bin/Debug/Iesi.Collections.dll
+/home/alx/src/MonoCryptography/NHibernateOrm/bin/Debug/NHibernate.dll
+/home/alx/src/MonoCryptography/NHibernateOrm/bin/Debug/FluentNHibernate.dll
+/home/alx/src/MonoCryptography/NHibernateOrm/bin/Debug/MySql.Data.dll
+/home/alx/src/MonoCryptography/NHibernateOrm/bin/Debug/System.Data.SQLite.dll

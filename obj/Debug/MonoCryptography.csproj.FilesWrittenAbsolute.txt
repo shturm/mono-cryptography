@@ -1,0 +1,8 @@
+/home/alx/src/MonoCryptography/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/alx/src/MonoCryptography/bin/Debug/MonoCryptography.dll.mdb
+/home/alx/src/MonoCryptography/bin/Debug/MonoCryptography.dll
+/home/alx/src/MonoCryptography/obj/Debug/MonoCryptography.dll
+/home/alx/src/MonoCryptography/obj/Debug/MonoCryptography.dll.mdb
+/home/alx/src/MonoCryptography/bin/Debug/nunit.framework.dll
+/home/alx/src/MonoCryptography/obj/Debug/MonoCryptography.keys.certificate.pfx
+/home/alx/src/MonoCryptography/bin/Debug/keys/certificate.pfx
